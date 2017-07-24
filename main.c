@@ -17,6 +17,7 @@ int main(int argc, const char * argv[]) {
     }
     
     printf("We did it!!");
+    printf("Sam is 💩");
     
     return 0;
 }
